@@ -1,4 +1,4 @@
-panggguoming/neurodb
+pangguoming/neurodb
 #nginx
 #janusgraph/janusgraph:latest
 
