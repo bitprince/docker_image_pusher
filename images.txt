@@ -6,7 +6,8 @@
 #prom/prometheus
 #grafana/grafana
 #prom/node-exporter
-oceanbase/oceanbase-ce
+#oceanbase/oceanbase-ce
+apachepulsar/pulsar-all
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
