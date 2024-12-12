@@ -12,7 +12,13 @@
 #redis/redis-stack
 #coredns/coredns
 #apache/camel-jbang:4.4.0
-xuxueli/xxl-job-admin:2.4.2
+#xuxueli/xxl-job-admin:2.4.2
+openim/openim-server
+openim/openim-admin-front
+openim/openim-chat
+openim/openim-web-front
+openim/demo
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
