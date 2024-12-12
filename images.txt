@@ -13,10 +13,10 @@
 #coredns/coredns
 #apache/camel-jbang:4.4.0
 #xuxueli/xxl-job-admin:2.4.2
-openim/openim-server
-openim/openim-admin-front
-openim/openim-chat
-openim/openim-web-front
+#openim/openim-server
+#openim/openim-admin-front
+#openim/openim-chat
+#openim/openim-web-front
 openim/demo
 
 #支持私库
