@@ -19,7 +19,7 @@
 #openim/openim-admin-front
 #openim/openim-chat
 #openim/openim-web-front
-openim/demo:v2.3.8
+openim/demo:v2.3.4
 
 
 #支持私库
