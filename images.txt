@@ -15,11 +15,11 @@
 #xuxueli/xxl-job-admin:2.4.2
 #rocket.chat
 #mongo
-openim/demo:v2.3.8
 #openim/openim-server
 #openim/openim-admin-front
 #openim/openim-chat
 #openim/openim-web-front
+openim/demo:v2.3.8
 
 
 #支持私库
