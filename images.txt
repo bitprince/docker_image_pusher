@@ -14,7 +14,8 @@
 #apache/camel-jbang:4.4.0
 #xuxueli/xxl-job-admin:2.4.2
 #rocket.chat
-mongo
+#mongo
+openim/demo:v2.3.8
 #openim/openim-server
 #openim/openim-admin-front
 #openim/openim-chat
