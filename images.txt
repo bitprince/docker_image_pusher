@@ -13,7 +13,7 @@
 # ruby:3.2.2-slim 
 # alpine:latest
 # golang:1.22-alpine
-otel/demo
+otel/demo:latest-currency
 
 #coturn/coturn
 #mongo:7.0    
