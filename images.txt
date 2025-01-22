@@ -17,8 +17,10 @@
 # otel/opentelemetry-collector-contrib-dev:latest
 # otel/weaver:main
 # otel/weaver:latest
-otel/opentelemetry-collector-contrib:latest
-otel/opentelemetry-collector-contrib:sha256-3f6274fe609da4f9964fbc2ef36b83d08d47964fbb11629251393590d3924072.sig
+# otel/opentelemetry-collector-contrib:latest
+otel/opentelemetry-collector:latest
+otel/opentelemetry-collector-otlp:latest
+otel/opentelemetry-collector-builder:latest
 
 #coturn/coturn
 #mongo:7.0    
