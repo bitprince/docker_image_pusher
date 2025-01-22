@@ -13,11 +13,11 @@
 # ruby:3.2.2-slim 
 # alpine:latest
 # golang:1.22-alpine
-otel/demo:latest-currency
-otel/opentelemetry-collector-contrib-dev:latest
-otel/weaver:main
-otel/weaver:latest
-otel/opentelemetry-collector-contrib:
+# otel/demo:latest-currency
+# otel/opentelemetry-collector-contrib-dev:latest
+# otel/weaver:main
+# otel/weaver:latest
+otel/opentelemetry-collector-contrib:latest
 otel/opentelemetry-collector-contrib:sha256-3f6274fe609da4f9964fbc2ef36b83d08d47964fbb11629251393590d3924072.sig
 
 #coturn/coturn
