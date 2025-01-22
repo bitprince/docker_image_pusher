@@ -13,7 +13,8 @@
 # ruby:3.2.2-slim 
 # alpine:latest
 # golang:1.22-alpine
-ghcr.io/open-telemetry/demo:1.12.0-cart 
+#ghcr.io/open-telemetry/demo:1.12.0-cart 
+ghcr.io/open-telemetry/demo:latest
 
 #coturn/coturn
 #mongo:7.0    
