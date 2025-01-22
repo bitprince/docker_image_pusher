@@ -1,5 +1,15 @@
 # Docker images
-coturn/coturn
+ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-contrib:0.116.1
+grafana/grafana:11.4.0
+ghcr.io/open-feature/flagd:v0.11.5
+jaegertracing/all-in-one:1.64.0
+opensearchproject/opensearch:2.18.0
+postgres:17.2
+quay.io/prometheus/prometheus:v3.0.1
+valkey/valkey:8.0-alpine
+kubeshop/tracetest:v1.7.1
+
+#coturn/coturn
 
 #mongo:7.0    
 #redis:7.0.0   
