@@ -18,9 +18,11 @@
 # otel/weaver:main
 # otel/weaver:latest
 # otel/opentelemetry-collector-contrib:latest
-otel/opentelemetry-collector:latest
-otel/opentelemetry-collector-otlp:latest
-otel/opentelemetry-collector-builder:latest
+#otel/opentelemetry-collector:latest
+#otel/opentelemetry-collector-otlp:latest
+#otel/opentelemetry-collector-builder:latest
+
+jaegertracing/jaeger:2.2.0
 
 #coturn/coturn
 #mongo:7.0    
