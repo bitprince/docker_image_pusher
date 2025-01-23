@@ -22,7 +22,9 @@
 #otel/opentelemetry-collector-otlp:latest
 #otel/opentelemetry-collector-builder:latest
 
-jaegertracing/jaeger:2.2.0
+#jaegertracing/jaeger:2.2.0
+jaegertracing/example-hotrod:1.65.0
+
 
 #coturn/coturn
 #mongo:7.0    
