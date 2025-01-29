@@ -25,12 +25,18 @@
 #jaegertracing/jaeger:2.2.0
 #jaegertracing/example-hotrod:1.65.0
 
-apache/skywalking-ui:10.1.0
-apache/skywalking-oap-server:10.1.0
-apache/skywalking-banyandb:0.7.1
-elasticsearch:8.17.1
-apache/skywalking-java-agent:9.3.0-java17
-docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2
+#apache/skywalking-ui:10.1.0
+#apache/skywalking-oap-server:10.1.0
+#apache/skywalking-banyandb:0.7.1
+#elasticsearch:8.17.1
+#apache/skywalking-java-agent:9.3.0-java17
+#docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2
+
+ghcr.io/open-webui/open-webui:ollama
+ghcr.io/open-webui/open-webui:main
+
+
+
 
 #coturn/coturn
 #mongo:7.0    
