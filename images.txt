@@ -1,7 +1,8 @@
 # Docker images
 
-nacos/nacos-server:v2.5.0
+# nacos/nacos-server:v2.5.0
 
+neo4j:5.26.5-ubi9
 
 # ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-contrib:0.116.1
 # grafana/grafana:11.4.0
