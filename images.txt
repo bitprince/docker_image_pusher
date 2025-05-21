@@ -2,7 +2,10 @@
 
 # nacos/nacos-server:v2.5.0
 
-neo4j:5.26.5-ubi9
+# neo4j:5.26.5-ubi9
+
+apache/apisix-dashboard
+
 
 # ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-contrib:0.116.1
 # grafana/grafana:11.4.0
